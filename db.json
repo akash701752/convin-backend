@@ -1,0 +1,40 @@
+{
+    "entertainment": [
+      {
+        "name": "White Brown Black",
+        "link": "https://www.youtube.com/embed/BtQp2U6hJII",
+        "category": "entertainment",
+        "timesPlayed": 1,
+        "id": 1,
+        "lastSeenAt": "2023-03-28T14:12:38.007Z"
+      },
+      {
+        "name": "Jugni",
+        "link": "https://www.youtube.com/embed/Wqp4CUKfbxU",
+        "category": "entertainment",
+        "timesPlayed": 0,
+        "id": 4,
+        "lastSeenAt": "2023-03-28T14:12:38.007Z"
+      }
+    ],
+    "education": [
+      {
+        "name": "Dynamic Programming",
+        "link": "https://www.youtube.com/embed/nqowUJzG-iM",
+        "category": "education",
+        "timesPlayed": 0,
+        "id": 2,
+        "lastSeenAt": "2023-03-28T13:34:22.363Z"
+      }
+    ],
+    "motivation": [
+      {
+        "id": 3,
+        "name": "Sandeep Maheshwari",
+        "link": "https://www.youtube.com/embed/QJhBeL6afgg",
+        "category": "motivation",
+        "timesPlayed": 0,
+        "lastSeenAt": "2023-03-28T16:43:21.465Z"
+      }
+    ]
+  }
